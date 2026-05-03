@@ -1,0 +1,12 @@
+{
+  "name": "evil-prophet-root",
+  "private": true,
+  "scripts": {
+    "dev": "cd app && npm run dev",
+    "build": "cd app && npm run build",
+    "start": "cd app && npm run start"
+  },
+  "dependencies": {
+    "next": "16.2.4"
+  }
+}

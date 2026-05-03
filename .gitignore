@@ -1,0 +1,26 @@
+# Dependencies
+node_modules/
+.pnp
+.pnp.*
+
+# Next.js
+.next/
+out/
+
+# Env
+.env*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Project-specific
+app/node_modules/
+app/.next/
+scratch/
+app/scratch/
+
+# Agent stuff
+.kilocode/
+AGENTS.md
+CLAUDE.md
